@@ -10,7 +10,7 @@ import com.tutorialsninja.qa.Base.Base;
 import com.tutorialsninja.qa.pages.HomePage;
 import com.tutorialsninja.qa.pages.SearchPage;
 
-//updated comments
+//updated comments -- Added More details
 public class SearchTest extends Base
 
 {
